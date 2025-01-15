@@ -1,4 +1,4 @@
-#from Player import Player
+#Main class
 from GameLogic import GameLogic
 class connect4PythonImplementation:
     def __init__(self):

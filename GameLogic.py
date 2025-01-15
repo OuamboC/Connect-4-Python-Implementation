@@ -1,6 +1,7 @@
 from GameBoard import GameBoard
 from Player import Player
 
+#Class to oversee the overal game flow 
 
 class GameLogic:
     def __init__(self):
