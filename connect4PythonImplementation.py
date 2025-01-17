@@ -1,6 +1,6 @@
 #Main class
 from GameLogic import GameLogic
-class connect4PythonImplementation:
+class Connect4PythonImplementation:
     def __init__(self):
         #self.player1 = Player("Player 1", 'O')
        # self.player2 = Player("Player 2", 'C')
@@ -11,5 +11,5 @@ class connect4PythonImplementation:
         self.game.playGame()
 
 if __name__ == "__main__":
-    app = connect4PythonImplementation()
+    app = Connect4PythonImplementation()
     app.run()
